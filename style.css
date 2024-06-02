@@ -1,0 +1,148 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    gap: 20px;
+    
+    
+    
+}
+
+.ggg {
+    color: red;
+    display: flex;
+    font-size: 1rem;
+    
+    
+    
+    
+}
+.hhh{
+    padding-right: 7rem;
+    justify-content: space-between;
+    display: flex;
+    flex-grow: 0.2;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: lighter;
+    
+}
+.header li{
+    list-style-type: none;
+    font-size: 2rem;
+
+    
+
+}
+.header svg{
+    height: 1.5rem;
+    width: 1.5rem;
+}
+footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    gap: 20px;
+}
+.footer li{
+    list-style-type: none;
+    font-size: 1rem;
+
+    
+
+}
+.footer svg{
+    height: 1.5rem;
+    width: 1.5rem;
+}
+.kkk{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-image: url(./20240218194440.png);
+}
+.aside {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    gap: 20px;
+    margin-top: 2rem;
+    
+}
+.aside li{
+    list-style-type: none;
+}
+
+
+.aside button:hover{
+    background-color: black;
+    color: whitesmoke;
+}
+.main{
+    display: flex;
+    flex-direction: row;
+    gap: 2px;
+
+}
+.main img{
+  
+   width: 60px;
+   
+}
+.main li{
+    list-style-type: none;
+}
+.flex{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1rem;
+    color: rgb(225, 9, 31);
+    text-align: center;
+
+}
+.raja{
+    box-sizing: border-box;
+    border-radius: 10%;
+    border: 2px solid black;
+    height: 170px;
+    width: 450px;
+    background-image: url(./20240218194440.png);
+}
+.emil{
+    box-sizing: border-box;
+    border-radius: 10%;
+    border: 2px solid black;
+    height: 170px;
+    width: 450px;
+    background-image: url(./runze-shi-1kIyfRdLMxI-unsplash.jpg); 
+}
+
+.flex1{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1rem;
+    color: rgb(228, 15, 11);
+    text-align: center;
+   
+
+
+}
+.raja1{
+    box-sizing: border-box;
+    border-radius: 10%;
+    border: 2px solid black;
+    height: 170px;
+    width: 450px;
+    background-image: url(./luca-bravo-zAjdgNXsMeg-unsplash.jpg);
+}
+.emil1{
+    box-sizing: border-box;
+    border-radius: 10%;
+    border: 2px solid black;
+    height: 170px;
+    width: 450px;
+    background-image: url(./sanni-sahil-7q0bLZHYEKM-unsplash.jpg); 
+}
